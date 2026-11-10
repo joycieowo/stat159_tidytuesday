@@ -15,3 +15,4 @@
 ## Name diversity
 
 ![Name diversity in 2024](output/name_diversity_2024.png)
+The ranking analysis is implemented in [`uk_baby_name_rankings.py`](https://github.com/joycieowo/stat159_tidytuesday/blob/main/uk_baby_name_rankings.py).

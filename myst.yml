@@ -1,10 +1,12 @@
 version: 1
 project:
-  title: TidyTuesday Baby Name Rankings
-  description: An analysis of baby-name ranking agreement and overlap
+  title: TidyTuesday UK Baby Names
+  description: Analyses of UK baby-name rankings and name diversity
   toc:
     - file: index.md
     - file: results.md
+    - file: name-diversity.md
+    - file: data-sources.md
 site:
   template: book-theme
-  title: TidyTuesday Baby Name Rankings
+  title: TidyTuesday UK Baby Names
