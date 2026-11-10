@@ -2,28 +2,16 @@
 
 ## Top-name overlap over time
 
-```{figure} output/top_name_overlap_over_time.png
-:alt: Plot of top-name overlap over time
-
-Top-name overlap over time.
-```
+![Top-name overlap over time](output/top_name_overlap_over_time.png)
 
 ## Ranking comparison
 
-```{figure} output/rank_vs_rank_scatter.png
-:alt: Scatter plot comparing name rankings
-
-Rank-versus-rank scatter plot.
-```
+![Rank-versus-rank scatter plot](output/rank_vs_rank_scatter.png)
 
 ## Top names
 
-```{figure} output/top_names_table.png
-:alt: Top names table
+![Top names table](output/top_names_table.png)
 
-Generated table of top names.
-```
+## Name diversity
 
-## Data files
-
-The project also contains `output/overlap_over_time.csv`, `output/pairwise_agreement_2024.csv`, and `output/top_10_names_2024.csv`.
+![Name diversity in 2024](output/name_diversity_2024.png)
