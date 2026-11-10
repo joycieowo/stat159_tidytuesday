@@ -1,0 +1,169 @@
+Year,Sex,Pair,Jaccard
+1997,Girl,England & Wales vs Northern Ireland,0.3333333333333333
+1997,Girl,England & Wales vs Scotland,0.3333333333333333
+1997,Girl,Northern Ireland vs Scotland,0.8181818181818182
+1998,Girl,England & Wales vs Northern Ireland,0.3333333333333333
+1998,Girl,England & Wales vs Scotland,0.3333333333333333
+1998,Girl,Northern Ireland vs Scotland,0.8181818181818182
+1999,Girl,England & Wales vs Northern Ireland,0.25
+1999,Girl,England & Wales vs Scotland,0.3333333333333333
+1999,Girl,Northern Ireland vs Scotland,0.6666666666666666
+2000,Girl,England & Wales vs Northern Ireland,0.25
+2000,Girl,England & Wales vs Scotland,0.25
+2000,Girl,Northern Ireland vs Scotland,0.6666666666666666
+2001,Girl,England & Wales vs Northern Ireland,0.23529411764705882
+2001,Girl,England & Wales vs Scotland,0.3333333333333333
+2001,Girl,Northern Ireland vs Scotland,0.6153846153846154
+2002,Girl,England & Wales vs Northern Ireland,0.16666666666666666
+2002,Girl,England & Wales vs Scotland,0.3333333333333333
+2002,Girl,Northern Ireland vs Scotland,0.4
+2003,Girl,England & Wales vs Northern Ireland,0.25
+2003,Girl,England & Wales vs Scotland,0.3333333333333333
+2003,Girl,Northern Ireland vs Scotland,0.42857142857142855
+2004,Girl,England & Wales vs Northern Ireland,0.25
+2004,Girl,England & Wales vs Scotland,0.42857142857142855
+2004,Girl,Northern Ireland vs Scotland,0.42857142857142855
+2005,Girl,England & Wales vs Northern Ireland,0.1111111111111111
+2005,Girl,England & Wales vs Scotland,0.3333333333333333
+2005,Girl,Northern Ireland vs Scotland,0.3333333333333333
+2006,Girl,England & Wales vs Northern Ireland,0.3333333333333333
+2006,Girl,England & Wales vs Scotland,0.42857142857142855
+2006,Girl,Northern Ireland vs Scotland,0.42857142857142855
+2007,Girl,England & Wales vs Northern Ireland,0.1111111111111111
+2007,Girl,England & Wales vs Scotland,0.25
+2007,Girl,Northern Ireland vs Scotland,0.42857142857142855
+2008,Girl,England & Wales vs Northern Ireland,0.3333333333333333
+2008,Girl,England & Wales vs Scotland,0.25
+2008,Girl,Northern Ireland vs Scotland,0.5384615384615384
+2009,Girl,England & Wales vs Northern Ireland,0.25
+2009,Girl,England & Wales vs Scotland,0.25
+2009,Girl,Northern Ireland vs Scotland,0.5384615384615384
+2010,Girl,England & Wales vs Northern Ireland,0.3333333333333333
+2010,Girl,England & Wales vs Scotland,0.3333333333333333
+2010,Girl,Northern Ireland vs Scotland,0.42857142857142855
+2011,Girl,England & Wales vs Northern Ireland,0.42857142857142855
+2011,Girl,England & Wales vs Scotland,0.42857142857142855
+2011,Girl,Northern Ireland vs Scotland,0.5384615384615384
+2012,Girl,England & Wales vs Northern Ireland,0.25
+2012,Girl,England & Wales vs Scotland,0.8181818181818182
+2012,Girl,Northern Ireland vs Scotland,0.3333333333333333
+2013,Girl,England & Wales vs Northern Ireland,0.25
+2013,Girl,England & Wales vs Scotland,0.5384615384615384
+2013,Girl,Northern Ireland vs Scotland,0.42857142857142855
+2014,Girl,England & Wales vs Northern Ireland,0.25
+2014,Girl,England & Wales vs Scotland,0.6666666666666666
+2014,Girl,Northern Ireland vs Scotland,0.3333333333333333
+2015,Girl,England & Wales vs Northern Ireland,0.3333333333333333
+2015,Girl,England & Wales vs Scotland,0.5384615384615384
+2015,Girl,Northern Ireland vs Scotland,0.5384615384615384
+2016,Girl,England & Wales vs Northern Ireland,0.42857142857142855
+2016,Girl,England & Wales vs Scotland,0.5384615384615384
+2016,Girl,Northern Ireland vs Scotland,0.42857142857142855
+2017,Girl,England & Wales vs Northern Ireland,0.3333333333333333
+2017,Girl,England & Wales vs Scotland,0.42857142857142855
+2017,Girl,Northern Ireland vs Scotland,0.5384615384615384
+2018,Girl,England & Wales vs Northern Ireland,0.42857142857142855
+2018,Girl,England & Wales vs Scotland,0.5384615384615384
+2018,Girl,Northern Ireland vs Scotland,0.5384615384615384
+2019,Girl,England & Wales vs Northern Ireland,0.3333333333333333
+2019,Girl,England & Wales vs Scotland,0.42857142857142855
+2019,Girl,Northern Ireland vs Scotland,0.5384615384615384
+2020,Girl,England & Wales vs Northern Ireland,0.23529411764705882
+2020,Girl,England & Wales vs Scotland,0.3333333333333333
+2020,Girl,Northern Ireland vs Scotland,0.6153846153846154
+2021,Girl,England & Wales vs Northern Ireland,0.1111111111111111
+2021,Girl,England & Wales vs Scotland,0.3333333333333333
+2021,Girl,Northern Ireland vs Scotland,0.42857142857142855
+2022,Girl,England & Wales vs Northern Ireland,0.25
+2022,Girl,England & Wales vs Scotland,0.3333333333333333
+2022,Girl,Northern Ireland vs Scotland,0.3333333333333333
+2023,Girl,England & Wales vs Northern Ireland,0.3333333333333333
+2023,Girl,England & Wales vs Scotland,0.3333333333333333
+2023,Girl,Northern Ireland vs Scotland,0.5384615384615384
+2024,Girl,England & Wales vs Northern Ireland,0.25
+2024,Girl,England & Wales vs Scotland,0.3333333333333333
+2024,Girl,Northern Ireland vs Scotland,0.5384615384615384
+1997,Boy,England & Wales vs Northern Ireland,0.3333333333333333
+1997,Boy,England & Wales vs Scotland,0.17647058823529413
+1997,Boy,Northern Ireland vs Scotland,0.42857142857142855
+1998,Boy,England & Wales vs Northern Ireland,0.25
+1998,Boy,England & Wales vs Scotland,0.17647058823529413
+1998,Boy,Northern Ireland vs Scotland,0.17647058823529413
+1999,Boy,England & Wales vs Northern Ireland,0.25
+1999,Boy,England & Wales vs Scotland,0.1111111111111111
+1999,Boy,Northern Ireland vs Scotland,0.25
+2000,Boy,England & Wales vs Northern Ireland,0.23529411764705882
+2000,Boy,England & Wales vs Scotland,0.25
+2000,Boy,Northern Ireland vs Scotland,0.23529411764705882
+2001,Boy,England & Wales vs Northern Ireland,0.42857142857142855
+2001,Boy,England & Wales vs Scotland,0.17647058823529413
+2001,Boy,Northern Ireland vs Scotland,0.25
+2002,Boy,England & Wales vs Northern Ireland,0.25
+2002,Boy,England & Wales vs Scotland,0.1111111111111111
+2002,Boy,Northern Ireland vs Scotland,0.25
+2003,Boy,England & Wales vs Northern Ireland,0.25
+2003,Boy,England & Wales vs Scotland,0.1111111111111111
+2003,Boy,Northern Ireland vs Scotland,0.42857142857142855
+2004,Boy,England & Wales vs Northern Ireland,0.17647058823529413
+2004,Boy,England & Wales vs Scotland,0.1111111111111111
+2004,Boy,Northern Ireland vs Scotland,0.3333333333333333
+2005,Boy,England & Wales vs Northern Ireland,0.25
+2005,Boy,England & Wales vs Scotland,0.17647058823529413
+2005,Boy,Northern Ireland vs Scotland,0.42857142857142855
+2006,Boy,England & Wales vs Northern Ireland,0.25
+2006,Boy,England & Wales vs Scotland,0.17647058823529413
+2006,Boy,Northern Ireland vs Scotland,0.42857142857142855
+2007,Boy,England & Wales vs Northern Ireland,0.3333333333333333
+2007,Boy,England & Wales vs Scotland,0.17647058823529413
+2007,Boy,Northern Ireland vs Scotland,0.3333333333333333
+2008,Boy,England & Wales vs Northern Ireland,0.4
+2008,Boy,England & Wales vs Scotland,0.17647058823529413
+2008,Boy,Northern Ireland vs Scotland,0.3125
+2009,Boy,England & Wales vs Northern Ireland,0.3333333333333333
+2009,Boy,England & Wales vs Scotland,0.17647058823529413
+2009,Boy,Northern Ireland vs Scotland,0.25
+2010,Boy,England & Wales vs Northern Ireland,0.25
+2010,Boy,England & Wales vs Scotland,0.17647058823529413
+2010,Boy,Northern Ireland vs Scotland,0.25
+2011,Boy,England & Wales vs Northern Ireland,0.25
+2011,Boy,England & Wales vs Scotland,0.25
+2011,Boy,Northern Ireland vs Scotland,0.42857142857142855
+2012,Boy,England & Wales vs Northern Ireland,0.3333333333333333
+2012,Boy,England & Wales vs Scotland,0.3333333333333333
+2012,Boy,Northern Ireland vs Scotland,0.42857142857142855
+2013,Boy,England & Wales vs Northern Ireland,0.42857142857142855
+2013,Boy,England & Wales vs Scotland,0.3333333333333333
+2013,Boy,Northern Ireland vs Scotland,0.42857142857142855
+2014,Boy,England & Wales vs Northern Ireland,0.5384615384615384
+2014,Boy,England & Wales vs Scotland,0.25
+2014,Boy,Northern Ireland vs Scotland,0.42857142857142855
+2015,Boy,England & Wales vs Northern Ireland,0.42857142857142855
+2015,Boy,England & Wales vs Scotland,0.17647058823529413
+2015,Boy,Northern Ireland vs Scotland,0.3333333333333333
+2016,Boy,England & Wales vs Northern Ireland,0.42857142857142855
+2016,Boy,England & Wales vs Scotland,0.3333333333333333
+2016,Boy,Northern Ireland vs Scotland,0.42857142857142855
+2017,Boy,England & Wales vs Northern Ireland,0.42857142857142855
+2017,Boy,England & Wales vs Scotland,0.3333333333333333
+2017,Boy,Northern Ireland vs Scotland,0.42857142857142855
+2018,Boy,England & Wales vs Northern Ireland,0.42857142857142855
+2018,Boy,England & Wales vs Scotland,0.25
+2018,Boy,Northern Ireland vs Scotland,0.3333333333333333
+2019,Boy,England & Wales vs Northern Ireland,0.3333333333333333
+2019,Boy,England & Wales vs Scotland,0.3333333333333333
+2019,Boy,Northern Ireland vs Scotland,0.42857142857142855
+2020,Boy,England & Wales vs Northern Ireland,0.25
+2020,Boy,England & Wales vs Scotland,0.3333333333333333
+2020,Boy,Northern Ireland vs Scotland,0.25
+2021,Boy,England & Wales vs Northern Ireland,0.25
+2021,Boy,England & Wales vs Scotland,0.17647058823529413
+2021,Boy,Northern Ireland vs Scotland,0.3333333333333333
+2022,Boy,England & Wales vs Northern Ireland,0.17647058823529413
+2022,Boy,England & Wales vs Scotland,0.23529411764705882
+2022,Boy,Northern Ireland vs Scotland,0.3125
+2023,Boy,England & Wales vs Northern Ireland,0.25
+2023,Boy,England & Wales vs Scotland,0.25
+2023,Boy,Northern Ireland vs Scotland,0.42857142857142855
+2024,Boy,England & Wales vs Northern Ireland,0.17647058823529413
+2024,Boy,England & Wales vs Scotland,0.42857142857142855
+2024,Boy,Northern Ireland vs Scotland,0.3333333333333333

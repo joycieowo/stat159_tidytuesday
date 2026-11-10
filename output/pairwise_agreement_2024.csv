@@ -1,0 +1,7 @@
+Year,Sex,Pair,Shared in top 10,Jaccard top 10,Names compared,Spearman rho
+2024,Girl,England & Wales vs Northern Ireland,4,0.25,134,0.167
+2024,Girl,England & Wales vs Scotland,5,0.33,130,0.504
+2024,Girl,Northern Ireland vs Scotland,7,0.54,124,0.347
+2024,Boy,England & Wales vs Northern Ireland,3,0.18,134,0.236
+2024,Boy,England & Wales vs Scotland,6,0.43,134,0.334
+2024,Boy,Northern Ireland vs Scotland,5,0.33,122,0.311
