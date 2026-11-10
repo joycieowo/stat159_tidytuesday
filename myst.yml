@@ -1,0 +1,10 @@
+version: 1
+project:
+  title: TidyTuesday Baby Name Rankings
+  description: An analysis of baby-name ranking agreement and overlap
+  toc:
+    - file: index.md
+    - file: results.md
+site:
+  template: book-theme
+  title: TidyTuesday Baby Name Rankings
